@@ -26,7 +26,6 @@ This work is about exploring the different algorithms in order to facilitate the
     <a href="#getting-started">Getting Started</a>
     <ul>
       <li><a href="#prerequisites">Prerequisites</a></li>
-      <li><a href="#installation">Installation</a></li>
     </ul>
   </li>
   <li>
@@ -34,9 +33,6 @@ This work is about exploring the different algorithms in order to facilitate the
   </li>
    <li>
     <a href="#contributions">Contributions</a>
-  </li>
-   <li>
-    <a href="#contact">Contact</a>
   </li>
 </ol>
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -93,8 +89,7 @@ The DDoS attack SDN dataset could be downloaded using the [Link](https://data.me
     DDoS-Detection-main
     .
     │
-    ├── dataset_sdn.csv
-    ├── Machine Learning Based DDOS Detection.ipynb
+    ├── DDOS_ATTACK_PREDICTION.ipynb
   
 <p align="right">(<a href="#top">back to top</a>)</p>
 
